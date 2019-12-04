@@ -1,0 +1,3 @@
+[submodule "BattleGame"]
+	path = BattleGame
+	url = https://github.com/hoon0624/BattleGame.git
