@@ -1,5 +1,5 @@
 # JavaProjects
  
-# Battle Game
+## Battle Game
 
-# 
+## Guess the Word 
